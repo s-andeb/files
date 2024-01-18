@@ -1,2 +1,1 @@
-# files
-food
+print (sequence 1,99)
